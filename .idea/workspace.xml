@@ -14,8 +14,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._3_StartThePhoneActivity">
+  <component name="RunManager" selected="Android JUnit._4_ShareACandyWithAnIntent">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="Android-CandyCodedApplication.app" />
       <extension name="coverage">
@@ -111,6 +110,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_4_ShareACandyWithAnIntent" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Android-CandyCodedApplication.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._4_ShareACandyWithAnIntent" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -198,6 +213,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._4_ShareACandyWithAnIntent" />
         <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
@@ -223,22 +239,22 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="321" y="23" key="#app/0.23.1280.777@0.23.1280.777" timestamp="1602584810200" />
-    <state width="627" height="184" key="GridCell.Tab.0.bottom" timestamp="1602593669575">
+    <state width="627" height="184" key="GridCell.Tab.0.bottom" timestamp="1602595916112">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="627" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1602593669575" />
-    <state width="627" height="184" key="GridCell.Tab.0.center" timestamp="1602593669573">
+    <state width="627" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1602595916112" />
+    <state width="627" height="184" key="GridCell.Tab.0.center" timestamp="1602595916109">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="627" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1602593669573" />
-    <state width="627" height="184" key="GridCell.Tab.0.left" timestamp="1602593669572">
+    <state width="627" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1602595916109" />
+    <state width="627" height="184" key="GridCell.Tab.0.left" timestamp="1602595916108">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="627" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1602593669572" />
-    <state width="627" height="184" key="GridCell.Tab.0.right" timestamp="1602593669574">
+    <state width="627" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1602595916108" />
+    <state width="627" height="184" key="GridCell.Tab.0.right" timestamp="1602595916111">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="627" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1602593669574" />
+    <state width="627" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1602595916111" />
     <state x="141" y="50" key="SettingsEditor" timestamp="1602587086037">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
